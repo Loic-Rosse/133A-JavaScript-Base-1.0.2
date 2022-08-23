@@ -10,6 +10,7 @@
 
     let a = 'Bonjour';
     let b = 'toto';
+    // test
 
     console.log(a, b);
 }()); // Main IIFE
